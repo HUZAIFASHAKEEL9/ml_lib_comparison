@@ -1,28 +1,4 @@
-Install everything at once
-
-pip3 install -r requirements.txt
-
-
-# For loading of data->DataFrame, array iteration (use numpy array for best performance)
-
-pandas
-numpy
- 
-# libraries to make model use functions and algorithms and to compare it
-
-scikit-learn
-tensorflow
-torch # I have use colab to run pytorch
- 
-# static visualization mainly in Visualize_it.ipynb
-
-matplotlib
-seaborn
- 
-# For UI interface and making of interactive dashboards
-
 streamlit
 plotly
+pandas 
  
- 
-# If you want to use GPU you should install a relevant CUDA tootlik from specific GPU maker website. By default it uses CPU.
